@@ -1,4 +1,5 @@
 📊 **Análisis de las Tiendas de Alura Store**
+
 **1. Contexto del Proyecto**
 Durante este desafío, ayudaremos al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender y explicar por qué basándonos en los datos de ventas,
 rendimiento y reseñas de las 4 tiendas.
