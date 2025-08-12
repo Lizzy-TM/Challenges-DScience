@@ -33,7 +33,7 @@ Calificación
 
 Costo_envío
 
-4. Metodología
+4. 💡 Metodología
 Carga y limpieza de datos.
 
 Cálculos clave:
@@ -56,7 +56,7 @@ Gráfico circular para distribución por categoría.
 
 Gráfico de barras y de línea precio medio vs calificación promedio por tienda.
 
-5. Principales Resultados
+5. 💡 Principales Resultados
 Ingresos: Tienda 1 obtuvo los ingresos más altos, mientras que Tienda 4 tuvo el menor desempeño.
 
 Categorías más vendidas: La categoría "Muebles" dominó en todas las tiendas.
@@ -65,7 +65,7 @@ Satisfacción del cliente: Tienda 3 tuvo el promedio más alto de calificaciones
 
 Costos de envío: Tienda 1 presentó el costo promedio más alto, mientras que la Tienda 4 obtuvo el costo promedio de envío mas bajo.
 
-6. Recomendación
+6. 📌 Recomendación
 Con base en los datos:
 
 Tienda recomendada para vender: Tienda 4.
