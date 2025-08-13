@@ -64,6 +64,7 @@ Herramientas: requests, pandas, json.
 Los datos se extrajeron desde el repositorio público de GitHub usando la librería requests. Se obtuvo un archivo JSON con información de clientes de TelecomX, incluyendo datos demográficos, tipo de servicio y estado de evasión.
 
 📌 Acción:
+
 Se descargó el JSON desde GitHub usando la URL RAW.
 
 Verificar que la descarga fue correcta (vista previa).
