@@ -26,9 +26,7 @@ Archivos disponibles en formato JSON y contienen información esencial sobre los
 📌 Enlace de la API:
 
 - [Repositorio completo del proyecto](https://github.com/ingridcristh/challenge2-data-science-LATAM)
-- 
-- [Dataset TelecomX (vista en GitHub)](https://github.com/ingridcristh/challenge2-data-science-LATAM/blob/main/TelecomX_Data.json)
--  
+  
 - [Dataset TelecomX (descarga directa)](https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/main/TelecomX_Data.json)
   
 
